@@ -1,5 +1,1 @@
-#!/bin/bash
-l -aln
-ls -al
-#!/bin/bash
-ls -al
+#!/bin/bash\nls -al
