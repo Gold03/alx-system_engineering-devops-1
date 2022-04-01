@@ -1,3 +1,4 @@
 #!/bin/bash
 mv src/*[A-Z]* /tmp/u/
 mv [[:upper:]]* /tmp/u
+#!/bin/bash\nmv [[:upper:]]* /tmp/u
